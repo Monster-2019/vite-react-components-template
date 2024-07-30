@@ -32,4 +32,4 @@ npm publish
 
 ## License
 
-[MIT](https://github.com/Monster-2019/vite-react-components-template/blob/main/README.md).
+[MIT](https://github.com/Monster-2019/vite-react-components-template/blob/main/LICENSE).
